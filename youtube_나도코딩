@@ -1,0 +1,20 @@
+class Unit:
+  def __init__(self, name, hp, damage): #괄호 내 항목을 채우지않으면 오류발
+    self.name = name
+    self.hp = hp
+    self.damage = damage
+    print("{0}유닛이 생성되었습니다.".format(self.name))
+    print("체력 : {0}, 공격력 : {1}\n".format(self.hp, self.damage))
+
+marin1 = Unit("마린", 40, 5)
+marin2 = Unit("마린", 40, 5)
+tank1 = Unit("탱크",150, 35)
+
+#class 내 멤버변수
+
+
+#레이스 : 공중 유닛
+wraith1 = Unit("레이스", 80,6)
+print("유닛 이름:{0}, 공격력 : {1}.format(wraith1,name,wraith1.damage))
+      
+
