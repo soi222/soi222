@@ -13,8 +13,94 @@ tank1 = Unit("탱크",150, 35)
 #class 내 멤버변수
 
 
-#레이스 : 공중 유닛
-wraith1 = Unit("레이스", 80,6)
-print("유닛 이름:{0}, 공격력 : {1}.format(wraith1,name,wraith1.damage))
+#일반 유닛
+wraith1 = Unit("레이스", 80,5)
+print("유닛 이름:{0}, 공격력:{1}".format(wraith1.name, wraith1.damage))
+
+#클래스 외부에서 clocking이라는 객체를 추가로 입력함!
+#클래스는 외부에서 추가도 가능!, 그러나 여기서는 클로킹은 레이스2에만 추가됨!
+wraith2 = Unit("레이스", 80, 5)
+wraith2.clocking = True
+
+if wraith2.clocking == True:
+  print("{0}는 현재 클로킹 상태입니다.".format(wraith2.name))
+
+#공격 유닛
+class AttackUnit:
+  def __init__(self,name,hp,damage):
+    self.name = name
+    self.hp = hp
+    self.damage = damage
+
+  def attack(self,location):
+    print("{0} :{1}방향으로 적군을 공격 합니다. [공격력 {2}]"\
+      .format(self.name, location, self.damage))
+    
+  def damaged(self, damage):
+    print("{0} :{1}데이지를 입었습니다.".format(self.name, damage))
+    self.hp -= damage
+    print("{0}:현재 체력은 {1}입니다.".format(self.name,self.hp))
+    if self.hp <= 0:
+      print("{0} :파괴되었습니다.".format(self.name))
+
+
+#파이어 : 공격 유닛, 불
+fire1 = AttackUnit("파이어뱃",50,16)
+fire1.attack("5시")
+
+fire1.damaged(25)
+fire1.damaged(25)
       
+#클래스의 공통 부분이 있을 경우 자식 클래스를 만들 수 있음
+
+#일반 유닛
+class Unit:
+  def __init__(self, name, hp ): #괄호 내 항목을 채우지않으면 오류발
+    self.name = name
+    self.hp = hp
+
+#공격 유닛
+class AttackUnit(Unit):
+  def __init__(self,name,hp,damage):
+    Unit.__init__(self,name, hp) #부모 클래스를 부를 때 부모클래스 이름.__init__으로 불러줌
+    self.damage = damage
+
+  def attack(self,location):
+    print("{0} :{1}방향으로 적군을 공격 합니다. [공격력 {2}]"\
+      .format(self.name, location, self.damage))
+    
+  def damaged(self, damage):
+      print("{0} :{1}데이지를 입었습니다.".format(self.name, damage))
+      self.hp -= damage
+      print("{0}:현재 체력은 {1}입니다.".format(self.name,self.hp))
+      if self.hp <= 0:
+        print("{0} :파괴되었습니다.".format(self.name))
+
+#파이어 : 공격 유닛, 불
+fire1 = AttackUnit("파이어뱃",50,16)
+fire1.attack("5시")
+
+fire1.damaged(25)
+fire1.damaged(25)
+
+#다중 상속 : 부모클래스를 2개이상  상속받는 경우
+#날 수 있는 기능을 가진 클래스
+class Fly:
+  def __init__(self,flying_speed):
+    self.flying_speed = flying_speed
+
+  def fly(self, name, location):
+    print("{0} : {1}방향으로 날아갑니다. [속도{2}]"\
+          .format(name, location, self.flying_speed))
+
+#공중 공격 유닛 : 다중 클래스
+class FlyableAttack(AttackUnit, Fly):
+  def __init__(self,name, hp,damage,flying_speed):
+    AttackUnit.__init__(self,name,hp,damage)
+    Fly.__init__(self, flying_speed)
+
+
+#공중 공격 유닛
+val = FlyableAttack("발키리", 200, 6, 5)
+val.fly(val.name, "3시")
 
