@@ -1,0 +1,37 @@
+
+# 커피자판기 만들기
+
+coffee = 5
+
+print("♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨")
+print("        커피 자판기                 ")
+print("♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨♨")
+
+while True:
+    money = int(input("돈을 넣어주세요 :"))
+    if money == 300:
+        coffee -= 1
+        print("커피를 제공해드리겠습니다. 감사합니다")
+        
+
+    elif money < 300:
+        print("돈이 모자릅니다. 300원을 넣어주세요.")
+
+    elif money > 300:
+        coffee -= 1
+        print("커피를 제공해드리겠습니다. 감사합니다")
+        print(f"거스름돈 {money - 300}원을 챙겨가세요.")
+        print()
+
+    if 0 < coffee < 10:
+        print(f"커피는 {coffee}잔 남았습니다.")
+        
+    elif coffee == 3:
+        print("커피는 3잔 남았습니다. 충전이 필요합니다")
+
+    elif coffee == 0:
+        print("커피가 다 떨어졌습니다.")
+        print(f"{money}원을 돌려드리겠습니다.")
+        break
+
+
