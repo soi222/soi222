@@ -1,4 +1,5 @@
 #헷갈리는 프로그래머스 실습 문제
+#문제1
 days_in_month = {
     #여기에 코드를 완성해 보세요.
     "1월":31,"2월":28,"3월":31
@@ -8,3 +9,54 @@ for key, value in days_in_month.items():
 
 # 헷갈린 이유: .items를 잊어버림, .keys와 .values로 해결하려고 했으나 for문으로는 두가지 변수를 해결하기 어려웠음
 # 코드 복습 하기
+
+
+#문제2
+tuple1 = (1,2,3)
+tuple2 = 1,2,3        #확인!
+list3 = [1,2,3]
+tuple3 = tuple(list3)
+#위의 코드는 모두 튜플 타입
+
+#문제3
+tuple1 = (11, 22, 33)
+for i in range( len( tuple1) ):
+    print( tuple1[i])
+#튜플도 리스트와 같이 해당 인덱스를 호출할 수 있음
+
+#문제4
+products = {"풀" : 800, "색종이": 1000}
+
+for product_detail in products.items():
+    print("{}의 가격: {}원".format(*product_detail))
+#튜플을 리턴할 때는 *을 사용할 수 있음
+
+ages = {'Tod' : 35, 'Jane' : 23, 'Paul' : 62}
+
+for a in ages.items():
+    print('{}의 나이는:{}'.format(a[0], a[1]))
+
+for a in ages.items():
+    print('{}의 나이는:{}'.format(*a))    
+
+# 위의 두 출력 결과가 같습니다
+
+#문제5
+#틀린 답
+numbers = [1,2,3]
+length = len(numbers)
+i = 0
+while length > 0:
+  print(numbers[i])
+  i += 1
+#맞는 답
+numbers = [1,2,3]
+length = len(numbers)
+i = 0
+while length > i:
+  print(numbers[i])
+  i += 1
+
+#위에서 length가 0보다 큰 경우에 while문을 돌리면 무한 루트인데, numbers[i]는 무한이 아니기에 에러발생
+#때문에 length를 사용하고 싶다면 변수 i를 사용해 i가 length보다 작은 경우에만 while문을 돌릴 수 있음을 의미
+
