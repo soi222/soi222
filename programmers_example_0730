@@ -7,3 +7,4 @@ for key, value in days_in_month.items():
   print(f"{key}은 {value}일까지 있습니다.")
 
 # 헷갈린 이유: .items를 잊어버림, .keys와 .values로 해결하려고 했으나 for문으로는 두가지 변수를 해결하기 어려웠음
+# 코드 복습 하기
