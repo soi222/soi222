@@ -60,3 +60,51 @@ while length > i:
 #위에서 length가 0보다 큰 경우에 while문을 돌리면 무한 루트인데, numbers[i]는 무한이 아니기에 에러발생
 #때문에 length를 사용하고 싶다면 변수 i를 사용해 i가 length보다 작은 경우에만 while문을 돌릴 수 있음을 의미
 
+
+#Try, except 함수
+#try : 에러가 발생할 가능성이 있는 코드 except 에러종류: 에러가 발생했을 경우 처리할 코드 -예외처리 대신 if else를 사용할 수 있으며, 
+#if를 주로 사용하되, try문이 필요한 경우도 있음
+#try 예시
+try:
+  import my_module
+except ImportError:
+  print("모듈이 없습니다.")
+
+# 실습
+def save_pop_print(list,index):
+  try:
+    print(list.pop(index))
+  except IndexError:
+    print('{} index의 값을 가져올 수 없습니다.'.format(index))
+
+save_pop_print([1,2,3],5)
+
+#위와 같은 문. 
+def save_pop_print(list,index):
+  if index < len(list):
+    print(list.pop())
+  else:
+    print('{} index의 값을 가져올 수 없습니다.'.format(index))
+
+save_pop_print([1,2,3],5)
+
+#문제6
+#예외의 이름을 모르는 경우 Exception as 로 해결할 수 있음
+try:
+    a=5
+    b=0
+    c=a/b
+except Exception as ex:
+    print("다음과 같은 에러가 발생했습니다 : {}.format(ex))
+
+#문제 7  ;참고 
+shops = {
+    "송일문방구": {"가위": 500, "크레파스": 3000},
+    "알파문구": {"풀": 800, "도화지": 300, "A4용지": 8000},
+    "다이소": {"풀": 500, "목공본드": 2000, "화분": 3000}
+}
+
+for shop, products in shops.items():
+    for product, price in products.items():
+        if product =='풀':
+            print("{}: {}원".format(shop, price))
