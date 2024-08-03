@@ -1,0 +1,59 @@
+#try/except/ raise
+raise를 많이 사용하느 경우 코드를 읽기 어려워짐
+
+#에러의 이름을 모르는 경우
+try:
+  list = []
+  print(list[0])
+  
+  text = "abc"
+  number = int(text)
+except:
+  print("에러가 발생했습니다")
+
+#에러의 이름을 모르거나 종류를 알고싶은 경우
+try:
+  list = []
+  print(list[0])
+  
+  text = "abc"
+  number = int(text)  #int는 정수에용
+except Exception as ex:
+  print("에러가 발생했습니다", ex)
+
+
+#raise : 에러를 직접일으키는 경우
+#가위바위보 승패를 판정하는 코드
+def rsp(mine, yours):
+  allowed = ["가위", "바위","보"]
+  if mine not in allowed:
+    raise ValueError
+  if yours not in allowed:
+    raise ValueError
+try:
+  rsp("가위","바") #에러 발생
+except ValueError:
+  print("잘못된 값을 입력받았습니다.")
+
+#중첩반복문 종료시키기
+school = {"1반":[172,185,190,177,165,193], "2반":[165,177,167,180,192]}
+for class_number, students in school.items():
+  for student in students:
+    if student >= 190:
+      print(class_number, "반에 190을 넘는 학생이 있습니다")
+      break #for student in students가 종료됨 for ~ items()는 아님
+      #출력 : 2반에 190을 넘는 학생이 있습니다
+      # 1반에 190을 넘는 학생이 있습니다 
+      # 딕셔너리는 순서가 있지않기때문에 1,2 순으로 출력되지 않을 수 있
+
+  
+school = {"1반":[172,185,190,177,165,193], "2반":[165,177,167,180,192]}
+try:
+  for class_number, students in school.items():
+    for student in students:
+      if student >= 190:
+        print(class_number, "반에 190을 넘는 학생이 있습니다")
+        raise StopIteration
+except StopIteration:
+  print("정상 종료")  #출력 : 1반에 190을 넘는 학생이 있습니다
+                      #정상종료(2반으로 넘어가지 않음)
