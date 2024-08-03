@@ -57,3 +57,117 @@ try:
 except StopIteration:
   print("정상 종료")  #출력 : 1반에 190을 넘는 학생이 있습니다
                       #정상종료(2반으로 넘어가지 않음)
+
+#예제
+shops = {
+    "송일문방구": {"가위": 500, "크레파스": 3000},
+    "알파문구": {"풀": 800, "도화지": 300, "A4용지": 8000},
+    "다이소": {"풀": 500, "목공본드": 2000, "화분": 3000}
+}
+try:
+    for shop, products in shops.items():
+        for product, price in products.items():
+            if product =='풀':
+                print("{}: {}원".format(shop, price))
+                raise StopIteration
+
+except StopIteration:
+    print("종료")
+
+#논리연산
+a = 10
+if a < 0 and 2**a > 1000 and a%5 == 2 and round(a) == a:
+  print("복잡한 식")
+
+
+def return_false():
+  print("함수return_false")
+def return_true():
+  print("함수return_true")
+
+print("테스트1")
+a = return_false()
+b = return_true()
+
+if a and b:
+  print(True)
+else:
+print(False)
+#출력 : 함수 return_false 함수 return_true False
+
+print("테스트2")
+if return_false() and return_true():
+  print("True")
+else:
+print("False") #출력 : 함수 return_false False
+#출력값이 다른 이유 : 단락평가. 전체가 false이기 때문에 이후의 함수는 확인하지 않음
+
+#단락평가 예시
+dic = {"Key2" : "Value1"}
+if "Key1" in dic and dic["Key1"] == "Value1":
+  print("Key1도 있고, 그 값은 Value1이네")
+else:
+  print("아니네")
+#출력 : 아니네
+#"Key1" in dic 를 먼저검사하고 and 뒤로 확인하지 않기때문에 else내 값을 출력
+
+dic = {"Key2" : "Value1"}
+if dic["Key1"] == "Value1" and "Key1" in dic:
+  print("Key1도 있고, 그 값은 Value1이네")
+else:
+  print("아니네")
+#에러발생 : dic["Key1"] == "Value1"은 틀린 문이기때문에 바로 에러발생시킴
+
+#Bool 값과 논리연산
+value = input("입력해주세요>") or "아무것도 못받았어"
+print("입력받은 값>" ,value)
+#출력
+
+#입력해주세요>
+#입력받은 값> 아무것도 못받았어
+
+#입력해주세요>hi
+#입력받은 값>hi
+# 참고 : or연산의 결과는 앞의 값 True라면 앞의 값을, 앞의 값이 False이라면 뒤의 값을 따
+a = 1 or 10    # 1의 bool 값은 True입니다.
+b = 0 or 10    # 0의 bool 값은 False입니다.
+
+#List와 문자열
+my_list = [1,2,3,4,5,6]
+my_list[0] #1
+my_list[1] #2
+
+str = "Hello World"
+str[0] #H
+str[1] #e
+
+#characters : 
+characters = list("abcdef")
+characters #['a', 'b', 'c', 'd', 'e', 'f']
+
+#문자열 > list로 변
+words = "Hello World는 프로그래밍을 배우기에 아주 좋은 사이트입니다"
+words_list = words.split()
+
+words_list #['Hello', 'World는', '프로그래밍을', '배우기에', '아주', '좋은', '사이트입니다']
+
+# str > list로 변환
+time_str = "10:35:27"
+time_list = time_str.split(":")
+
+time_list #['10', '35', '27']
+
+#list 내 인수 합치기
+":".join(time_list)
+#10:35:27
+
+" ".join(words_list)
+#Hello World는 프로그래밍을 배우기에 아주 좋은 사이트입니다
+
+##join함수
+#문자열 삽입
+a.join(b)
+join함수로 b 각각의 인수 사이에 a를 삽입함, list, tuple에서도 사용이 가능
+
+#주의 
+.split에 경우 문자열을 나눠주는 함수이긴하나 문자열이 한 덩어리라면 split으로 쪼갤 수 없
