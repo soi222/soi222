@@ -1,20 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
-
-### Main Tools
-<div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="Python" height="50px"/>
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008f5f,100:90d5cd&height=180&text=SeoHyun's%20GitHub&animation=blinking&fontColor=2e5249&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⭐introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 성장하는 개발자 위서현입니다</li></li>
-      
-      🌱 SeSAC (24.07 ~ ) </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 성장하는 개발자 위서현입니다</li></li>🌱 SeSAC (24.07 ~ ) </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
