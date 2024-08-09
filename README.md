@@ -19,7 +19,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align="center"> 
-        <a href="https://instagram.com/@seohyun_222"> 
+        <a href="https://www.instagram.com/seohyun_222_?igsh=ZGY2anlwdmxodGhn&utm_source=qr"> 
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
         </a>
         <a href="https://velog.io/@soii222/series"> 
@@ -33,3 +33,4 @@
         </a>
     </div>  
 </div>
+
