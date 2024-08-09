@@ -2,29 +2,29 @@ class MyDate:
 
     def __init__(self, year = 0, month = 0, day = 0, hour = 0, minute = 0, sec = 0): 
         #year
-        def vaild_year(year):
+        def valid_year(year):
             if 0 <= year <= 2100:
                 return True
             return False
                     
-        assert vaild_year(year),"Year Error"
+        assert valid_year(year),"Year Error"
         self.year = year
 
         #month
-        def vaild_month(month):
+        def valid_month(month):
             if 0 <= month < 13:
                 return True
             return False
             
         
-        assert vaild_month(month), "Month Error"
+        assert valid_month(month), "Month Error"
         self.month = month
 
         #day
         last_31 = [1,3,5,7,8,10,12]
         last_30 = [4,6,9,11]
 
-        def vaild_day(year,month, day):
+        def valid_day(year,month, day):
             yoon = year % 4 == 0 and year % 400 == 0
 
             if month == 2:
@@ -45,34 +45,34 @@ class MyDate:
 
             return False 
 
-        assert vaild_day(year, month, day), "Day Error"
+        assert valid_day(year, month, day), "Day Error"
         self.day = day
 
         #hour
-        def vaild_hour(hour):
+        def valid_hour(hour):
             if 0 <= hour <= 23:
                 return True
             return False
             
-        assert vaild_hour(hour), "Hour Error"
+        assert valid_hour(hour), "Hour Error"
         self.hour = hour    
 
         #minute
-        def vaild_minute(minute):
+        def valid_minute(minute):
             if 0 <= minute <= 59:
                 return True
             return False
             
-        assert vaild_minute, "Minute Error"
+        assert valid_minute(minute), "Minute Error"
         self.minute = minute
 
         #sec
-        def vaild_sec(sec):
+        def valid_sec(sec):
             if 0 <= sec <= 59:
                 return True
             return False
 
-        assert vaild_sec(sec), "Sec Error"
+        assert valid_sec(sec), "Sec Error"
         self.sec = sec
 
         #total
@@ -80,51 +80,49 @@ class MyDate:
 
 
     def __add__(self, other): #mydate끼리 더하는 함수
-        self.self = self
         self.other = other
 
-        sec = (self.sec + other.sec) % 60 
-        sec_a = (self.sec + other.sec) // 60
+        sec_a = (self.sec + other.sec) % 60 
+        sec_add = (self.sec + other.sec) // 60
     
-        minute = (self.minute + other.minute + sec_a) % 60 #괄호 안에 sec_a 더하기
-        minute_a = (self.minute + other.minute) // 60
+        minute_a = (self.minute + other.minute + sec_add) % 60 #괄호 안에 sec_a 더하기
+        minute_add = (self.minute + other.minute + sec_add) // 60
 
+        hour_a = (self.hour + other.hour + minute_add) % 24 
+        hour_add = (self.hour + other.hour + minute_add) // 24
 
-        hour = (self.hour + other.hour + minute_a) % 24 
-        hour_a = (self.hour + other.hour) // 24
+        day_a = (self.day + other.day + hour_add) 
 
+        month_a = (self.month + other.month)
 
-        month = (self.month + other.month) % 12
-        month_a = (self.month + other.month) // 12
+        year_a = (self.year + other.year)
 
-        day = (self.day + other.day)
+        #day
+        while True:
+            if month_a > 12:
+                month_a -= 12
+                year_a += 1
+
+            if month_a == 2:
+                if (year_a % 4 == 0 and year_a % 100 != 0) or (year_a % 400 == 0):
+                    last_day = 29 
+                else: 
+                    last_day = 28
+
+            elif month_a in [4, 6, 9, 11]:
+                last_day = 30
+
+            else:
+                last_day = 31
+            
+            if day_a <= last_day:
+                break
+            day_a -= last_day
+            month_a += 1
+
+        return MyDate(year = year_a, month= month_a, day= day_a, hour= hour_a, minute=minute_a, sec=sec_a)
         
-        last_30 = [4,6,9,11]
-        last_31 = [1,3,5,7,8,10,12]
 
-        if month == 2:
-
-            yoon = year % 4 == 0 or year % 400 == 0
-
-            if year == yoon or year % 100 != 0:
-                day = day % 29
-                day_a = day // 29
-        
-        elif month in last_30:
-            day = day % 30
-            day_a = day //30
-        
-        elif month in last_31:
-            day = day % 31
-            day_a = day // 31
-        
-        assert day
-
-        #year
-        year = (self.year + other.year) + day_a
-        
-        return MyDate(year = year, month= month, day= day, hour= hour, minute=minute, sec=sec)
-    
     def __sub__(self, other): # date끼리 빼는 함수
         
         #year
@@ -136,18 +134,17 @@ class MyDate:
 
         # minute
         minute_sub = (self.minute - other.minute - sec_sub_a) % 60
-        minute_sub_a = (self.minute - other.minute - sec_sub_a) // 60
+        minute_sub_a = (self.minute - other.minute) // 60
 
         # hour
         hour_sub = (self.hour - other.hour) % 24
         hour_sub_a = (self.hour - other.hour - minute_sub_a) // 24
-
         
 
         # month
         month_sub = self.month - other.month
 
-
+        #day
         day_sub = self.day - other.day
         
         if month_sub == 2:
@@ -270,12 +267,16 @@ if __name__ == '__main__':
     # d3 = MyDate(2024, 2, 30)
 
     d3 = MyDate(day = 1) 
-    print(d1 - d3)
-    #assert d1 + d3 == MyDate(2022, 4, 2, 14, 30)
-    #assert d1 - d3 == MyDate(2022, 3, 31, 14, 30) 
+    #print(d1 - d3)
+    assert d1 + d3 == MyDate(2022, 4, 2, 14, 30)
+    assert d1 - d3 == MyDate(2022, 3, 31, 14, 30) 
    
-print( d1 < d2 )#과거보다 현재가 더 큼
+    print( d1 < d2 )#과거보다 현재가 더 큼
 
+    d4 = MyDate(2022, 1, 31)
+    d5 = MyDate(day = 30)
 
-    
-    
+    print(d4 + d5)
+    assert d4 + d5 == MyDate(2022, 3, 2)
+    print(True)
+
