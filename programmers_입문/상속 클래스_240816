@@ -1,0 +1,63 @@
+class Human():
+    def walk(self):
+        print("걷는다")
+    
+    def eat(self):
+        print("먹는다")
+
+    def wave(self):
+        print("손을 흔든다")
+
+class Dog():
+    def walk(self):
+        print("걷는다")
+    
+    def eat(self):
+        print("먹는다")
+
+    def wag(self):
+        print("꼬리를 흔든다")
+
+#인스턴스 만들기
+# person = Human() 
+# person.walk()
+# person.eat()
+# person.wave()
+
+# print()
+
+# dog = Dog()
+# dog.walk()
+# dog.eat()
+# dog.wag()
+
+#위와 같이 겹치는 항목을 여러개만드는 것은 비효율적
+class Animal():
+    def walk(self):
+        print("걷는다")
+    
+    def eat(self):
+        print("먹는다")
+
+#상속클래스 : 자식클래스 내에서 부모클래스의 함수들을 함께 사용할 수 있음
+class Human(Animal):#상속클래스가 되어 Animal과 겹치는 부분은 지워줘도 무방
+    def wave(self):
+        print("손을 흔든다")
+
+
+class Dog(Animal):
+    def wag(self):
+        print("꼬리를 흔든다")
+
+person = Human() 
+person.walk()
+person.eat()
+person.wave()
+
+print()
+
+dog = Dog()
+dog.walk()
+dog.eat()
+dog.wag()
+#출력값이 같음
