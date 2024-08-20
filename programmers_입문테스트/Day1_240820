@@ -1,0 +1,88 @@
+#대소문자 바꿔출력하기_함수 사용하지 않고 출력하
+str = input()
+Big = "ABCDEFGHIJKLMNOPQRXTVWXYZ"
+Small = "abcdefghijklmnopqrxtvwxyz"
+
+# for i in range(97,123):
+#     Small.append(chr(i))
+
+# for j in range(65,91):
+#     Big.append(chr(j))
+
+for x in val:
+    if x in Big:
+        a = ord(x)
+        new = chr(a + 32)
+        val = val.replace(x,new)
+        
+    elif x in Small:
+        a = ord(x)
+        new = chr(a - 32)
+        val = val.replace(x,new)
+print(val)
+
+#대소문자 바꿔 출력하기
+
+val = "dkgG"
+new_str = ""
+for i in val:
+  print(i)
+  if i.isupper() == True:
+    new_str += i.lower()
+  else:
+    new_str += i.upper()
+print(new_str)
+
+#특수문자 출력
+#풀이 1
+print("!@#$%^&*(\\'\"<>?:;")
+
+#다른사람 풀이
+print(r'!@#$%^&*(\'"<>?:;')
+
+#덧셈식 출력
+a, b = map(int, input().strip().split(' '))
+x = a + b
+print("{} + {} = {}".format(a,b,x))
+
+#문자열 붙여 출력하기
+#풀이
+str1, str2 = input().strip().split(' ')
+print(str1+str2)
+
+#다른사람풀이
+print(input().strip().replace(' ', ''))
+
+#문자열 출력하기
+str = input()
+for i in str:
+  print(i)
+  
+#다른사람 풀이
+str = input()
+print('\n'.join(input()))
+
+#홀짝 구분하기
+a = int(input())
+
+if a % 2 == 1:
+    print(f"{a} is odd")
+else:
+    print(f"{a} is even")
+  
+#다른사람 풀이
+N = int(input())
+print(f"{N} is {'even' if N % 2 == 0 else 'odd'}")
+
+#문자열 겹쳐쓰기
+def solution(my_string, overwrite_string, s):
+    res = ""
+
+    res += my_string[:s]
+    res += overwrite_string
+  
+    i = len(overwrite_string) + s
+  
+    res += my_string[i:]
+    return res
+
