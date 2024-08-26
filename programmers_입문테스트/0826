@@ -1,0 +1,6 @@
+#실습
+def create_values(lst):
+  res = []
+  for x in range(lst):
+    res.append(x * 2)
+  return res
