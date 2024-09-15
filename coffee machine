@@ -34,4 +34,4 @@ while True:
         print(f"{money}원을 돌려드리겠습니다.")
         break
 
-
+print("운영 종료")
