@@ -1,3 +1,4 @@
+import
 class MyDate:
 
     def __init__(self, year = 0, month = 0, day = 0, hour = 0, minute = 0, sec = 0): 
