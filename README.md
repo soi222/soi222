@@ -1,6 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4000,100:ffdb29&height=240&text=SeoHyun's%20GitHub&animation=twinkling&fontColor=3b382b&fontSize=70" />
-    </div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4000,100:ffdb29&height=240&text=SeoHyun's%20GitHub&fontColor=3b382b&fontSize=70" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&size=35&pause=1000&color=F74718&center=true&vCenter=true&random=true&width=435&height=60&lines=Hi!+I'm+SeoHyun!" alt="Typing SVG" /></a>
+</div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
@@ -9,14 +9,20 @@
   Always excited to learn new things and work on fun projects!
 </div>
     </div><br><br>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=soi222&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soi222&layout=compact&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
-           /> </div><br><br>
-    <div style="text-align: left;">
+<div style="text-align: left;"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+  <div style="text-align: left;"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=soi222&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soi222&layout=compact&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f" />
+    <a href="https://solved.ac/dnltjguss/" target="_blank">
+    </a>
+  </div>
+</div><br><br>
+<div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <div style="text-align: left;">
   </div>
+</div>
 
   <!-- Languages section -->
   <h3 style="color: #282d33;"> Languages </h3>
@@ -51,7 +57,7 @@
   </div>
   
   <!-- ETC section -->
-  <h3 style="color: #282d33;"> used </h3>
+  <h3 style="color: #282d33;"> Used </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=pandas&logoColor=white">
   </div>
@@ -65,37 +71,41 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white">
-  </div>
+</div>
+  </div><br><br>
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+<div style="text-align: left;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ai7019er@gmail.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://seohyun222.tistory.com/"> </a>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@soii222/posts"> </a>
+      </div>
 </div>
     </div><br><br>
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
   <ul>
     <li>
-      <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">🌱도로 품질 관리를 위한 포트홀 검출 AI 시스템</a> <span>(2024.10 ~ 진행중)</span>
+      🌱 <strong>도로 품질 관리를 위한 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 진행중 
+      <br>
+      <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">github</a>
     </li>
     <li>
-      <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">🌱OCR을 활용한 식품 영양성분표 시스템</a> <span>(2024.09 ~ 2024.10)</span>
+      🌱 <strong>OCR을 활용한 식품 영양성분표 시스템</strong> : 2024.09 ~ 2024.10 
+      <br>
+      <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">github</a>
     </li>
   </ul>
   <hr>
   <h3 style="color: #282d33;">📚 Education</h3>
   <ul>
-    <li>🌱청년취업사관학교(Sesac) AI 데이터개발자 과정 <span>(2024.07.01 ~ 2024.12.02)</span></li>
+    <li>🌱<strong>청년취업사관학교(Sesac) AI 데이터개발자 과정</strong>strong> <span>(2024.07.01 ~ 2024.12.02)</span></li>
   </ul>
 </div>
     </div><br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ problem_solving </h2> <br> 
-    <div style="text-align: left;"><br> 
-    <div style="text-align: left;">  </div>
-    </div><br><br>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ai7019er@gmail.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://seohyun222.tistory.com/"> </a>
-        <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@soii222/posts"> </a>
-          </div>
+    <div style="text-align: left;"><br>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnltjguss" alt="Solved.ac Profile Badge" />
     </div>
     
