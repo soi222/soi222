@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"><br>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
-  </div>
+  </div><br><br>
 
   <!-- AI section -->
   <h3 style="color: #282d33;"> 💡 ML/DL </h3>
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white">
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
-  </div>
+  </div><br><br>
 
   <!-- DATA section -->
   <h3 style="color: #282d33;"> 📊data anlysis </h3>
@@ -43,18 +43,18 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">  
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=seaborn&logoColor=white">
     <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white">
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white">
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white">
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white">
-  </div>
+  </div><br><br>
   
   <!-- ETC section -->
   <h3 style="color: #282d33;"> 📌used </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
-  </div>
+  </div><br><br>
 
   <!-- IDE section -->
   <h3 style="color: #282d33;"> ⚙️IDEs/tools </h3>
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white">
-  </div>
+  </div><br><br>
 </div>
     </div><br><br>
     <div style="text-align: left;">
