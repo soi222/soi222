@@ -19,7 +19,7 @@
   </div>
 
   <!-- Languages section -->
-  <h3 style="color: #282d33;"> 🌐 Languages </h3>
+  <h3 style="color: #282d33;"> Languages </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -29,7 +29,7 @@
   </div>
 
   <!-- AI section -->
-  <h3 style="color: #282d33;"> 💡 ML/DL </h3>
+  <h3 style="color: #282d33;"> ML/DL </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
@@ -38,7 +38,7 @@
   </div>
 
   <!-- DATA section -->
-  <h3 style="color: #282d33;"> 📊 data anlysis </h3>
+  <h3 style="color: #282d33;"> data anlysis </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">  
@@ -51,13 +51,13 @@
   </div>
   
   <!-- ETC section -->
-  <h3 style="color: #282d33;"> 📌 used </h3>
+  <h3 style="color: #282d33;"> used </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=pandas&logoColor=white">
   </div>
 
   <!-- IDE section -->
-  <h3 style="color: #282d33;"> ⚙️ IDEs/tools </h3>
+  <h3 style="color: #282d33;"> IDEs/tools </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat&logo=googlecolab&logoColor=white">
@@ -69,8 +69,7 @@
 </div>
     </div><br><br>
     <div style="text-align: left;">
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔎 Project</h2> <br>
-      <div style="text-align: left;"><br>
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
         <div style="text-align: left;">
           <p>🌱도로 품질 관리를 위한 포트홀 검출 AI 시스템 (2024.10~진행중)</p>
           <p>🌱OCR을 활용한 식품 영양성분표 시스템 (2024.09~2024.10)</p>
