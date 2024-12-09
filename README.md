@@ -8,17 +8,27 @@
   I love digging into data to find cool insights and building deep learning models to solve problems.<br>
   Always excited to learn new things and work on fun projects!
 </div>
-    </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
-          </div>
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
+      <hr style="border: 0; border-top: 1px solid #d8dee4; margin: 10px 0;">
+      <div style="text-align: left;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+        <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
+        <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
+      </div>
+  <!-- Languages section -->
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Languages </h2> <br>
+  <hr style="border: 0; border-top: 1px solid #d8dee4; margin: 10px 0;">
+  <div style="text-align: left;">
+    <img src="https://img.shields.io/badge/English-0085CA?style=flat&logo=language&logoColor=white">
+    <img src="https://img.shields.io/badge/Korean-003478?style=flat&logo=language&logoColor=white">
+    <!-- 추가로 다른 언어도 여기에 삽입 가능 -->
+  </div>
+</div>
         </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ test </h2> <br> 
