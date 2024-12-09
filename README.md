@@ -60,9 +60,8 @@
   <!-- IDE section -->
   <h3 style="color: #282d33;"> ⚙️IDEs/tools </h3>
   <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat&logo=googlecolab&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat&logo=googlecolab&logoColor=white">
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
