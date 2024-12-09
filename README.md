@@ -21,7 +21,7 @@
       </div>
   <!-- Languages section -->
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Languages </h2> <br>
-  <hr style="border: 0; border-top: 1px solid #d8dee4; margin: 10px 0;">
+  <hr style="border: 0; border-top: 0.1px solid #d8dee4; margin: 10px 0;">
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/English-0085CA?style=flat&logo=language&logoColor=white">
     <img src="https://img.shields.io/badge/Korean-003478?style=flat&logo=language&logoColor=white">
