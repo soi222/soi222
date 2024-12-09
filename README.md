@@ -69,6 +69,13 @@
 </div>
     </div><br><br>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔎 Project</h2> <br> 
+    <div style="text-align: left;"><br> 
+    <div style="text-align: left;">  </div>
+    </div><br><br>
+    </div>
+    </div><br><br>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ai7019er@gmail.com">
