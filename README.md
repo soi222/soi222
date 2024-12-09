@@ -70,14 +70,9 @@
     </div><br><br>
     <div style="text-align: left;">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
-        <div style="text-align: left;">
-          <p>🌱도로 품질 관리를 위한 포트홀 검출 AI 시스템 (2024.10 ~ 진행중)</p>
-            <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">GitHub 링크</a>
-          <p>🌱OCR을 활용한 식품 영양성분표 시스템 (2024.09 ~ 2024.10)</p>
-            <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">GitHub 링크</a>
     <ul>
-  <li><a href="https://your-link-here.com" target="_blank">주요 목표: 사용자가 제공한 식품 이미지로부터 텍스트를 자동으로 인식하고 이를 맞춤형 영양 성분 데이터로 활용</a></li>
-  <li><a href="https://your-link-here.com" target="_blank">기술 요약: CRAFT 모델로 텍스트 영역을 감지하고, TrOCR 모델로 인식된 텍스트를 추출</a></li>
+  <li><a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">🌱도로 품질 관리를 위한 포트홀 검출 AI 시스템 (2024.10 ~ 진행중)</a></li>
+  <li><a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">🌱OCR을 활용한 식품 영양성분표 시스템 (2024.09 ~ 2024.10)</a></li>
 </ul>
 
     </div>
