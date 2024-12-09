@@ -8,6 +8,11 @@
   I love digging into data to find cool insights and building deep learning models to solve problems.<br>
   Always excited to learn new things and work on fun projects!
 </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=soi222&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soi222&layout=compact&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
+           /> </div> 
     <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <div style="text-align: left;">
@@ -69,10 +74,5 @@
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@soii222/posts"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=soi222&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soi222&layout=compact&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
-           /> </div> 
     </div>
     
