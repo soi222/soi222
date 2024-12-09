@@ -78,7 +78,6 @@
           <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">🌱OCR을 활용한 식품 영양성분표 시스템</a> <span>(2024.09 ~ 2024.10)</span>
         </li>
 </div>
-
     </div>
     </div><br><br>
     <div style="text-align: left;">
