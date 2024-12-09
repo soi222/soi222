@@ -53,7 +53,7 @@
   <!-- ETC section -->
   <h3 style="color: #282d33;"> 📌used </h3>
   <div style="text-align: left;">
-    <img src="streamlit-FF4B4B?style=flat&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=pandas&logoColor=white">
   </div>
 
   <!-- IDE section -->
