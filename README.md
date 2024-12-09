@@ -99,7 +99,7 @@
   <hr>
   <h3 style="color: #282d33;">📚 Education</h3>
   <ul>
-    <li>🌱<strong>청년취업사관학교(Sesac) AI 데이터개발자 과정</strong>strong> <span>(2024.07.01 ~ 2024.12.02)</span></li>
+    <li>🌱<strong>청년취업사관학교(Sesac) AI 데이터개발자 과정</strong> <span> : 2024.07.01 ~ 2024.12.02</span></li>
   </ul>
 </div>
     </div><br><br>
