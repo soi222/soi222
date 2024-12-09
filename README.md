@@ -38,7 +38,7 @@
   </div>
 
   <!-- DATA section -->
-  <h3 style="color: #282d33;"> 📊data anlysis </h3>
+  <h3 style="color: #282d33;"> 📊 data anlysis </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">  
@@ -51,13 +51,13 @@
   </div>
   
   <!-- ETC section -->
-  <h3 style="color: #282d33;"> 📌used </h3>
+  <h3 style="color: #282d33;"> 📌 used </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=pandas&logoColor=white">
   </div>
 
   <!-- IDE section -->
-  <h3 style="color: #282d33;"> ⚙️IDEs/tools </h3>
+  <h3 style="color: #282d33;"> ⚙️ IDEs/tools </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat&logo=googlecolab&logoColor=white">
@@ -76,5 +76,11 @@
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@soii222/posts"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
+    </div><br><br>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ Coding_practice </h2> <br> 
+    <div style="text-align: left;"><br> 
+    <div style="text-align: left;">  </div>
+    </div><br><br>
     </div>
     
