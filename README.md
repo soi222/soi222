@@ -1,5 +1,5 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4000,100:ffdb29&height=240&text=SeoHyun's%20GitHub&fontColor=3b382b&fontSize=70" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&size=35&pause=1000&color=F74718&center=true&vCenter=true&random=true&width=435&height=60&lines=Hi!+I'm+SeoHyun!" alt="Typing SVG" /></a>
+<div align= "center"><br><br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&size=35&pause=1000&color=F74718&center=true&vCenter=true&random=true&width=435&height=60&lines=Hi!+I'm+SeoHyun!" alt="Typing SVG" /></a>
 </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me! </h2>  
