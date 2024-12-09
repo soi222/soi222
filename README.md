@@ -44,8 +44,8 @@
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">  
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black">
     <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white">
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white">
+    <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white">
     <img src="https://img.shields.io/badge/-beautifulsoup-%231F8A70?style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Studio_R-%23276DC3.svg?style=flat&logo=r&logoColor=white">
   </div>
