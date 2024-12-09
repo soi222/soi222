@@ -3,7 +3,11 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi there! I’m really into data analysis and deep learning. </li>I love digging into data to find cool insights and building deep learning models to solve problems. </li></li>Always excited to learn new things and work on fun projects! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+  Hi there! I’m really into data analysis and deep learning.<br>
+  I love digging into data to find cool insights and building deep learning models to solve problems.<br>
+  Always excited to learn new things and work on fun projects!
+</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
