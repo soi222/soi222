@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
     <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white">
-    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white">
   </div>
 
   <!-- DATA section -->
