@@ -69,10 +69,13 @@
 </div>
     </div><br><br>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔎 Project</h2> <br> 
-    <div style="text-align: left;"><br> 
-    <div style="text-align: left;">  </div>
-    </div><br><br>
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔎 Project</h2> <br>
+      <div style="text-align: left;"><br>
+        <div style="text-align: left;">
+          <p>🌱도로 품질 관리를 위한 포트홀 검출 AI 시스템 (2024.10~진행중)</p>
+          <p>🌱OCR을 활용한 식품 영양성분표 시스템 (2024.09~2024.10)</p>
+        </div>
+      </div><br><br>
     </div>
     </div><br><br>
     <div style="text-align: left;">
