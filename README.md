@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
   Hi there! I’m really into data analysis and deep learning.<br>
-  I love digging into data to find cool insights and building deep learning models to solve problems.<br>
+  I love exploring data from various perspectives to uncover meaningful insights and building deep learning models to solve problems.<br>
   Always excited to learn new things and work on fun projects!
 </div>
     </div><br><br>
@@ -44,7 +44,7 @@
   </div>
 
   <!-- DATA section -->
-  <h3 style="color: #282d33;"> data anlysis </h3>
+  <h3 style="color: #282d33;"> Data Anlysis </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">  
