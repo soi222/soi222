@@ -9,28 +9,36 @@
   Always excited to learn new things and work on fun projects!
 </div>
     <div style="text-align: left;">
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
-      <div style="text-align: left;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-        <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
-          </div>
-      <!-- Languages section -->
-    ### 🌐Languages
-    [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org)
-    [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+  <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+    <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
+    <br/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
+  </div>
+
+  <!-- Languages section -->
+  <h3 style="color: #282d33;"> 🌐 Languages </h3>
+  <div style="text-align: left;">
+    <a href="https://www.python.org">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+    </a>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-    <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-    
-    ### 💡AI
+  </div>
+
+  <!-- AI section -->
+  <h3 style="color: #282d33;"> 💡 AI </h3>
+  <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
-    <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+  </div>
 </div>
         </div>
     <div style="text-align: left;">
