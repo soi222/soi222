@@ -7,17 +7,6 @@
   Hi there! I’m really into data analysis and deep learning.<br>
   I love digging into data to find cool insights and building deep learning models to solve problems.<br>
   Always excited to learn new things and work on fun projects!
-## 🛠️ Tech Stacks
-
-### Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org)
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### Frameworks
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)](https://reactjs.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org)
-
-
 </div>
     <div style="text-align: left;">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
@@ -31,22 +20,17 @@
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
           </div>
       <!-- Languages section -->
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Languages </h2> <br>
-      <div style="text-align: left;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-        <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-        <hr style="border: 0; border-top: 0.5px solid #d8dee4; margin: 10px 0;">
-      </div>
-    </div>
-  <!-- Languages section -->
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡AI </h2> <br>
-  <div style="text-align: left;">
+    ### 🌐Languages
+    [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org)
+    [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+    <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+    
+    ### 💡AI
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
     <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-    <hr style="border: 0; border-top: 0.5px solid #d8dee4; margin: 10px 0;">
-  </div>
 </div>
         </div>
     <div style="text-align: left;">
