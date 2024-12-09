@@ -26,9 +26,8 @@
     <img src="https://img.shields.io/badge/English-0085CA?style=flat&logo=language&logoColor=white">
     <img src="https://img.shields.io/badge/Korean-003478?style=flat&logo=language&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-      
-    <!-- 추가로 다른 언어도 여기에 삽입 가능 -->
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+    <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
   </div>
 </div>
         </div>
