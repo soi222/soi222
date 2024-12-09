@@ -68,22 +68,21 @@
   </div>
 </div>
     </div><br><br>
-    <div style="text-align: left;">
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
-      <ul>
-        <li>
-          <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">🌱도로 품질 관리를 위한 포트홀 검출 AI 시스템</a> <span>(2024.10 ~ 진행중)</span>
-        </li>
-        <li>
-          <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">🌱OCR을 활용한 식품 영양성분표 시스템</a> <span>(2024.09 ~ 2024.10)</span>
-        </li>
-        <hr>
-        <h3 style="color: #282d33;">📚 Education</h3>
-        <li> 
-          🌱청년취업사관학교(Sesac) [AI 데이터개발자 과정] <span>(2024.07.01 ~ 2024.12.02)</span>
-        </li>
-      </ul>
-    </div>
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
+  <ul>
+    <li>
+      <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">🌱도로 품질 관리를 위한 포트홀 검출 AI 시스템</a> <span>(2024.10 ~ 진행중)</span>
+    </li>
+    <li>
+      <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">🌱OCR을 활용한 식품 영양성분표 시스템</a> <span>(2024.09 ~ 2024.10)</span>
+    </li>
+  </ul>
+  <hr>
+  <h3 style="color: #282d33;">📚 Education</h3>
+  <ul>
+    <li>🌱청년취업사관학교(Sesac) AI 데이터개발자 과정 <span>(2024.07.01 ~ 2024.12.02)</span></li>
+  </ul>
 </div>
     </div>
     <div style="text-align: left;">
