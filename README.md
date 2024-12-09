@@ -21,13 +21,20 @@
       </div>
   <!-- Languages section -->
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Languages </h2> <br>
-  <hr style="border: 0; border-top: 0.1px solid #d8dee4; margin: 10px 0;">
   <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/English-0085CA?style=flat&logo=language&logoColor=white">
-    <img src="https://img.shields.io/badge/Korean-003478?style=flat&logo=language&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
     <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+    <hr style="border: 0; border-top: 0.5px solid #d8dee4; margin: 10px 0;">
+  </div>
+    </div>
+  <!-- Languages section -->
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡AI </h2> <br>
+  <div style="text-align: left;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white">
+    <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+    <hr style="border: 0; border-top: 0.5px solid #d8dee4; margin: 10px 0;">
   </div>
 </div>
         </div>
