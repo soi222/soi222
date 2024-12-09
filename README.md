@@ -18,15 +18,15 @@
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
         <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
+          </div>
+      <!-- Languages section -->
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Languages </h2> <br>
+      <div style="text-align: left;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+        <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+        <hr style="border: 0; border-top: 0.5px solid #d8dee4; margin: 10px 0;">
       </div>
-  <!-- Languages section -->
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌐 Languages </h2> <br>
-  <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-    <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-    <hr style="border: 0; border-top: 0.5px solid #d8dee4; margin: 10px 0;">
-  </div>
     </div>
   <!-- Languages section -->
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡AI </h2> <br>
