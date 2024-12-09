@@ -8,7 +8,7 @@
   I love digging into data to find cool insights and building deep learning models to solve problems.<br>
   Always excited to learn new things and work on fun projects!
 </div>
-    </div>
+    </div><br><br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=soi222&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soi222&layout=compact&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f"
@@ -23,7 +23,9 @@
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"><br>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
   </div>
 
   <!-- AI section -->
