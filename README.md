@@ -76,6 +76,7 @@
         </li>
         <li>
           <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">🌱OCR을 활용한 식품 영양성분표 시스템</a> <span>(2024.09 ~ 2024.10)</span>
+        <hr>
         </li>
 </div>
     </div>
@@ -89,7 +90,7 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ Coding_practice </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ problem_solving </h2> <br> 
     <div style="text-align: left;"><br> 
     <div style="text-align: left;">  </div>
     </div><br><br>
