@@ -10,7 +10,6 @@
 </div>
     <div style="text-align: left;">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
-      <hr style="border: 0; border-top: 1px solid #d8dee4; margin: 10px 0;">
       <div style="text-align: left;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
@@ -26,6 +25,9 @@
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/English-0085CA?style=flat&logo=language&logoColor=white">
     <img src="https://img.shields.io/badge/Korean-003478?style=flat&logo=language&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+      
     <!-- 추가로 다른 언어도 여기에 삽입 가능 -->
   </div>
 </div>
