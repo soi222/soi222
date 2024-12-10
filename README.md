@@ -1,4 +1,4 @@
-<div align= "center"><br><br>
+<br><br><div align= "center"><br><br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&size=35&pause=1000&color=F74718&center=true&vCenter=true&random=true&width=435&height=60&lines=Hi!+I'm+SeoHyun!" alt="Typing SVG" /></a>
 </div>
     <div style="text-align: left;"> 
@@ -12,7 +12,7 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=soi222&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" /> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soi222&theme=nord_bright" alt="GitHub Profile Summary Card" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soi222&layout=compact&bg_color=180,00000000,00000000&title_color=403f3f&text_color=403f3f" />
     <a href="https://solved.ac/dnltjguss/" target="_blank">
     </a>
@@ -59,7 +59,7 @@
   <!-- ETC section -->
   <h3 style="color: #282d33;"> Used </h3>
   <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=steamlit&logoColor=white">
   </div>
 
   <!-- IDE section -->
@@ -86,12 +86,12 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
   <ul>
     <li>
-      🌱 <strong>도로 품질 관리를 위한 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 진행중 
+       <strong>도로 품질 관리를 위한 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 진행중 
       <br>
       <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">github</a>
     </li>
     <li>
-      🌱 <strong>OCR을 활용한 식품 영양성분표 시스템</strong> : 2024.09 ~ 2024.10 
+       <strong>OCR을 활용한 식품 영양성분표 시스템</strong> : 2024.09 ~ 2024.10 
       <br>
       <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">github</a>
     </li>
@@ -99,7 +99,9 @@
   <hr>
   <h3 style="color: #282d33;">📚 Education</h3>
   <ul>
-    <li>🌱<strong>청년취업사관학교(Sesac) AI 데이터개발자 과정</strong> <span> : 2024.07.01 ~ 2024.12.02</span></li>
+    <li><strong>이노베이션아카데미서울42 새싹 포스트 과정</strong> <span> : 2024.12.02 ~ 현재</span><br><br></li>
+    <li><strong>청년취업사관학교(Sesac) AI 데이터개발자 과정</strong> <span> : 2024.07.01 ~ 2024.12.02</span><br>
+    머신러닝 및 딥러닝을 활용한 데이터분석과 AI 모델 구현 교육</li>
   </ul>
 </div>
     </div><br><br>
