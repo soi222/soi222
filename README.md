@@ -1,3 +1,5 @@
+<br><br><div align= "center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoi222&count_bg=%23F68D2D&title_bg=%236B6B6B&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
 <br><br><div align= "center"><br><br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&size=35&pause=1000&color=F74718&center=true&vCenter=true&random=true&width=435&height=60&lines=Hi!+I'm+SeoHyun!" alt="Typing SVG" /></a>
 </div>
@@ -57,9 +59,10 @@
   </div>
   
   <!-- ETC section -->
-  <h3 style="color: #282d33;"> Used </h3>
+  <h3 style="color: #282d33;"> Frontend </h3>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=steamlit&logoColor=white">
+    <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
   </div>
 
   <!-- IDE section -->
