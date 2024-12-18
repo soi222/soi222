@@ -32,7 +32,8 @@
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"><br>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"><br>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">
   </div>
