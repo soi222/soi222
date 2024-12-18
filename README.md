@@ -112,6 +112,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ problem_solving </h2> <br> 
     <div style="text-align: left;"><br>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnltjguss" alt="Solved.ac Profile Badge" />
+    <!--주석표기-->
+    <!--img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnltjguss" alt="Solved.ac Profile Badge" /-->
     </div>
     
