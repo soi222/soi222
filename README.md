@@ -9,7 +9,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
   Hi there! I’m really into data analysis and deep learning.<br>
   I love exploring data from various perspectives to uncover meaningful insights and building deep learning models to solve problems.<br>
-  Always excited to learn new things and work on fun projects!
+  Always excited to learn new things and work on fun projects!👏
 </div>
     </div><br><br>
 <div style="text-align: left;"> 
