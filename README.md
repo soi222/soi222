@@ -90,7 +90,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
   <ul>
     <li>
-       <strong>Yolov8 Large모델을 활용한 도로 품질 개선 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 진행중 
+       <strong>Yolov8 Large 모델을 활용한 도로 내 실시간 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 진행중 
       <br>
       <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">github</a>
     </li>
