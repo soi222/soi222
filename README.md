@@ -1,8 +1,18 @@
-<br><br><div align= "center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoi222&count_bg=%23F68D2D&title_bg=%236B6B6B&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/></a>
-</div>
-<br><br><div align= "center"><br><br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&size=35&pause=1000&color=F74718&center=true&vCenter=true&random=true&width=435&height=60&lines=Hi!+I'm+SeoHyun!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoi222&count_bg=%23F68D2D&title_bg=%236B6B6B&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/>
+  </a>
+</div><br><br>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Parkinsans&weight=600&size=35&pause=1000&color=F74718&center=true&vCenter=true&random=true&width=435&height=60&lines=Hi!+I'm+SeoHyun!" alt="Typing SVG" />
+    </a>
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/688783f9-e656-4601-be7f-5cb98dbf77f8" alt="Profile Image" width="200" height="200" style="border-radius: 10px;" />
+  </div>
 </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me! </h2>  
