@@ -37,7 +37,7 @@
     머신러닝 및 딥러닝을 활용한 데이터분석과 딥러닝, AI 모델 구현 교육</li>
       <br></ul></div>
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 AI Project</h2> <br>
   <ul>
     <li>
        <strong>Yolov8 Large 모델을 활용한 도로 내 실시간 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 2024.11
