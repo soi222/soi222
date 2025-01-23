@@ -21,7 +21,6 @@
   I love exploring data from various perspectives to uncover meaningful insights and building deep learning models to solve problems.<br>
   Always excited to learn new things and work on fun projects!👏
 </div>
-    </div><br><br>
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div style="text-align: left;"> 
@@ -31,12 +30,31 @@
     </a>
   </div>
 </div><br><br>
+<div style="text-align: left;">      
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Education</h2> <br>
+  <ul>
+    <li><strong>청년취업사관학교(Sesac) AI 데이터개발자 과정</strong> <span> : 2024.07.01 ~ 2024.12.02</span><br>
+    머신러닝 및 딥러닝을 활용한 데이터분석과 딥러닝, AI 모델 구현 교육</li>
+      <br></ul></div>
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
+  <ul>
+    <li>
+       <strong>Yolov8 Large 모델을 활용한 도로 내 실시간 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 2024.11
+      <br>
+      <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">github</a>
+    </li>
+    <li>
+       <strong>OCR을 활용한 식품 영양성분표 시스템</strong> : 2024.09 ~ 2024.10 
+      <br>
+      <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">github</a>
+    </li>
+    </div><br><br>
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <div style="text-align: left;">
   </div>
-</div>
-
+    </div>
   <!-- Languages section -->
   <h3 style="color: #282d33;"> Languages </h3>
   <div style="text-align: left;">
@@ -96,29 +114,7 @@
       </div>
 </div>
     </div><br><br>
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project</h2> <br>
-  <ul>
-    <li>
-       <strong>Yolov8 Large 모델을 활용한 도로 내 실시간 포트홀 검출 AI 시스템</strong> : 2024.10 ~ 현재
-      <br>
-      <a href="https://github.com/Chang-Hyeon-Park/SeSACMuchim" target="_blank">github</a>
-    </li>
-    <li>
-       <strong>OCR을 활용한 식품 영양성분표 시스템</strong> : 2024.09 ~ 2024.10 
-      <br>
-      <a href="https://github.com/YugyeongJo/OCR_Project" target="_blank">github</a>
-    </li>
-  </ul>
-  <hr>
-  <h3 style="color: #282d33;">📚 Education</h3>
-  <ul>
-    <li><strong>이노베이션아카데미서울42 새싹 포스트 과정</strong> <span> : 2024.12.02 ~ 현재</span><br><br></li>
-    <li><strong>청년취업사관학교(Sesac) AI 데이터개발자 과정</strong> <span> : 2024.07.01 ~ 2024.12.02</span><br>
-    머신러닝 및 딥러닝을 활용한 데이터분석과 딥러닝, AI 모델 구현 교육</li>
-  </ul>
-</div>
-    </div><br><br>
+
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ problem_solving </h2> <br> 
     <div style="text-align: left;"><br>
