@@ -113,11 +113,12 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@soii222/posts"> </a>
       </div>
 </div>
-    </div><br><br>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ problem_solving </h2>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ problem_solving </h2> <br> 
-    <div style="text-align: left;"><br>
-    <!--주석표기-->
-    <!--img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnltjguss" alt="Solved.ac Profile Badge" /-->
+        <a href="https://solved.ac/dnltjguss/">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnltjguss" alt="Solved.ac Profile Badge"/>
+        </a>
     </div>
-    
+</div>
+
