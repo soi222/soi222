@@ -106,19 +106,19 @@
 </div>
   </div><br><br>
 </div>
-<div style="text-align: left;">
+<!div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ problem_solving </h2>
     <div style="text-align: left;">
         <a href="https://solved.ac/dnltjguss/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnltjguss" alt="Solved.ac Profile Badge"/>
+            <!img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnltjguss" alt="Solved.ac Profile Badge"/>
         </a>
     </div><br><br>
  <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+<!h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2> <br> 
 <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ai7019er@gmail.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://seohyun222.tistory.com/"> </a>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@soii222/posts"> </a>
+    <!img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ai7019er@gmail.com">
+    <!img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://seohyun222.tistory.com/"> </a>
+    <!img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@soii222/posts"> </a>
       </div>
 </div>
 
